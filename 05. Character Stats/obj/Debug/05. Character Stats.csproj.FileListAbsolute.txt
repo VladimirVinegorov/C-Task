@@ -1,0 +1,6 @@
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.exe.config
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.exe
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.pdb
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\05. Character Stats\obj\Debug\05. Character Stats.csprojResolveAssemblyReference.cache
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\05. Character Stats\obj\Debug\_05.Character_Stats.exe
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\05. Character Stats\obj\Debug\_05.Character_Stats.pdb

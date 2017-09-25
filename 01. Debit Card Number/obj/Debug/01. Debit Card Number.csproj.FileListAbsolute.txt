@@ -1,0 +1,6 @@
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\01. Debit Card Number\bin\Debug\_01.Debit_Card_Number.exe.config
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\01. Debit Card Number\bin\Debug\_01.Debit_Card_Number.exe
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\01. Debit Card Number\bin\Debug\_01.Debit_Card_Number.pdb
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\01. Debit Card Number\obj\Debug\01. Debit Card Number.csprojResolveAssemblyReference.cache
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\01. Debit Card Number\obj\Debug\_01.Debit_Card_Number.exe
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\01. Debit Card Number\obj\Debug\_01.Debit_Card_Number.pdb

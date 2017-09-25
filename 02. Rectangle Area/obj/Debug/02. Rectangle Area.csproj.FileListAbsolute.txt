@@ -1,0 +1,5 @@
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe.config
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.pdb
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.exe
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.pdb

@@ -1,0 +1,6 @@
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe.config
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.pdb
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\03. Miles to Kilometers\obj\Debug\03. Miles to Kilometers.csprojResolveAssemblyReference.cache
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.exe
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.pdb

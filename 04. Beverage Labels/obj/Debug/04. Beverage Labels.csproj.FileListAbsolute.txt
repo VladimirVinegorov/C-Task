@@ -1,0 +1,6 @@
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe.config
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.pdb
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.exe
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.pdb
+c:\users\vladi88\documents\visual studio 2012\Projects\C Intro and Basic Syntax_Exercises\04. Beverage Labels\obj\Debug\04. Beverage Labels.csprojResolveAssemblyReference.cache
